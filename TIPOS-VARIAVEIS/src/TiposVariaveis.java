@@ -33,7 +33,7 @@ public class TiposVariaveis {
 
         final double VALOR_DE_PI = 3.14; // sintaxe de uma Constante
 
-        System.out.println("numero");
+        System.out.println(numero);
 
     }
 }
